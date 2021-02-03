@@ -1,3 +1,3 @@
-### [ACS 2020](https://advancesincognitivesystems.github.io/acs/) Eighth Annual Conference on Advances in Cognitive Systems.
+### [AAAI DC 2021](https://aaaidc.github.io/dc2021/) Doctoral Consortium at AAAI 2021
 
 
