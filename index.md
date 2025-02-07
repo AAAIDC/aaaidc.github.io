@@ -1,3 +1,4 @@
+### [AAAI DC 2025](https://aaaidc.github.io/dc2025/) Doctoral Consortium at AAAI 2025
 
 ### [AAAI DC 2023](https://aaaidc.github.io/dc2023/) Doctoral Consortium at AAAI 2023
 
